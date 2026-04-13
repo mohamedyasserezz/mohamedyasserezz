@@ -17,14 +17,14 @@ Tech Stack
 
 ---
 
-## 📚 Currently
+## Currently
 
-- 🎓 Completing a 9-month backend track at **ITI**
-- 🔍 Actively looking for junior .NET / full-stack opportunities
+-  Completing a 9-month backend track at **ITI**
+-  Actively looking for junior .NET / full-stack opportunities
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 Feel free to explore my repositories or reach out!
 <!--
